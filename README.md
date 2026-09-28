@@ -11,4 +11,8 @@ In this repo i will push question of leetcode
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varun72006-eng/LeetCode/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/varun72006-eng/LeetCode/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
