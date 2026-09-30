@@ -19,6 +19,15 @@ In this repo i will push question of leetcode
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/varun72006-eng/LeetCode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/varun72006-eng/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/varun72006-eng/LeetCode/tree/master/2235-add-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/varun72006-eng/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/varun72006-eng/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
