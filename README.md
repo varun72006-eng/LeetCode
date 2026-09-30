@@ -6,6 +6,7 @@ In this repo i will push question of leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/varun72006-eng/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/varun72006-eng/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/varun72006-eng/LeetCode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/varun72006-eng/LeetCode/tree/master/0260-single-number-iii) |
@@ -30,4 +31,8 @@ In this repo i will push question of leetcode
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/varun72006-eng/LeetCode/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/varun72006-eng/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
