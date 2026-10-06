@@ -35,4 +35,12 @@ In this repo i will push question of leetcode
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varun72006-eng/LeetCode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/varun72006-eng/LeetCode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/varun72006-eng/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
